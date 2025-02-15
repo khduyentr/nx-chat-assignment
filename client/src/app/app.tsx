@@ -1,9 +1,9 @@
-import NxWelcome from './nx-welcome';
 
 export function App() {
   return (
     <div>
-      <NxWelcome title="@nx-chat-assignment/client" />
+      {/* <NxWelcome title="@nx-chat-assignment/client" /> */}
+      <span>Hello world</span>
     </div>
   );
 }
