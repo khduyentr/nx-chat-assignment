@@ -1,10 +1,10 @@
-
+import * as Styled from './app.styled'
 export function App() {
   return (
-    <div>
+    <Styled.Container>
       {/* <NxWelcome title="@nx-chat-assignment/client" /> */}
       <span>Hello world</span>
-    </div>
+    </Styled.Container>
   );
 }
 
